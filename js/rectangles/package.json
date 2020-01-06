@@ -1,0 +1,15 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest",
+    "benchmark": "node ./performance.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "jest": "^24.9.0"
+  }
+}
