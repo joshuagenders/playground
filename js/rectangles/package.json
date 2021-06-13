@@ -10,6 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "benchmark": "^2.1.4",
-    "jest": "^24.9.0"
+    "jest": "^27.0.4"
   }
 }
